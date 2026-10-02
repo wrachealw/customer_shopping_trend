@@ -7,37 +7,22 @@ How are discounts, subscriptions, demographics, shipping, and ratings related to
 ## 3. What should the business investigate or act on?
 Which products need more inventory, marketing, quality improvement, or further investigation?
 
-Breakdown for the analysis business questions:
-### 1. Which products sell the most, the least, and generate the most revenue?
-Identified top and bottom-selling products and categories.
-### 2. When do different products sell?
-Analyzed product demand across Winter, Spring, Summer, and Fall.
-### 3. Which shipping methods are associated with the most purchases and revenue?
-Compared Free Shipping, Express, Standard, Store Pickup, etc.
-### 4. Which colors are most popular and profitable?
-Identified colors with the highest purchase volume and revenue.
-### 5. Who are the main customers?
-Compared purchasing behavior and revenue by gender.
-### 6. Which age groups generate the most sales and revenue?
-Segmented customers into age groups such as 20–29, 30–39, 40–49, 50–59, and 60+.
-### 7. Which customers are the most valuable?
-Examined previous purchase behavior, revenue, and average order value.
-### 8. Are discounts associated with higher sales or spending?
-Compared discounted vs. non-discounted purchases, revenue, and average order value.
-### 9. Are subscribers purchasing more than non-subscribers?
-Compared subscription status by purchases, revenue, frequency, and average order value.
-### 10. Which products have strong sales and customer ratings?
-Identified products combining high sales with relatively strong ratings.
-### 11. Which products sell well but have lower customer ratings?
-Identified products that may need investigation into quality or customer satisfaction.
-### 12. Which products have low sales but good ratings?
-Identified products that may have opportunities for better marketing, visibility, or pricing.
-### 13. How does customer satisfaction vary by location?
-Compared average ratings and purchase volumes across states.
-### 14. How does customer satisfaction and demand vary by season?
-Compared purchases and ratings across the four seasons.
-### 15. Which products have the strongest overall performance?
-Combined sales volume, revenue, average order value, and customer ratings to create a broader product-performance view.
+### Breakdown for the analysis business questions:
+1. Which products sell the most, the least, and generate the most revenue?
+ 2. When do different products sell?
+ 3. Which shipping methods are associated with the most purchases and revenue?
+ 4. Which colors are most popular and profitable?
+ 5. Who are the main customers?
+ 6. Which age groups generate the most sales and revenue?
+ 7. Which customers are the most valuable?
+ 8. Are discounts associated with higher sales or spending?
+ 9. Are subscribers purchasing more than non-subscribers?
+ 10. Which products have strong sales and customer ratings?
+ 11. Which products sell well but have lower customer ratings?
+ 12. Which products have low sales but good ratings?
+ 13. How does customer satisfaction vary by location?
+ 14. How does customer satisfaction and demand vary by season?
+ 15. Which products have the strongest overall performance?
 ## Business Takeaways and Recommendations
 Overall, the analysis shows that sales performance is driven by a combination of product, season, customer, shipping, and purchasing behavior rather than by one factor alone.
 
